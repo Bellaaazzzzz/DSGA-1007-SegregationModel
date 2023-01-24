@@ -23,6 +23,6 @@ $\bullet$ **Relocation rule**: If the number of same-group agents out of the nea
 
 **Model 1.5**: s=8, t=5;
 
-**Model 2**: s=5, t=3; 
+**Model 2**: s=5, t=3; A certain ratio(2%) agents moving in or out; this rule’s priority higher than relocation criterion;
 
-**Model 3**: s=5, t=3; 
+**Model 3**: s=5, t=3; There exists one leader(no-moving) for each group, and sgents adjacent to leader of his group won’t move(highest priority); A certain ratio(2%) agents moving in or out;
