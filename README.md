@@ -1,4 +1,6 @@
-# How segregation formed? -Simulation of Schelling's model of segregation.
+## How segregation formed?
+
+### -Simulation of Schelling's model of segregation.
 
 Schelling's model of segregation is a classic example of agent-based model developed by economist Thomas Schelling in 2010. By simulation settlement and migration of different groups of agents, the model shows that even without external factors, people's in-group preference may lead different groups tends to becoming more segregated.
 
